@@ -46,18 +46,17 @@ Data Cleaning • Feature Engineering • Data Visualization • Problem Solving
 
 ---
 
-## 📈 GitHub Stats & Widgets
+## 📊 GitHub Stats & Cool Widgets
 <p align="center">
   <!-- Stats card -->
   <img src="https://github-readme-stats.vercel.app/api?username=AradRouhaniiiiii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-
-<p align="center">
   <!-- Streak stats -->
-  <img src="https://streak-stats.demolab.com?user=AradRouhaniiiiii&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=AradRouhaniiiiii&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
 
-  <!-- Languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradRouhaniiiiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" alt="Top Languages" height="165"/>
+<p align="center">
+  <!-- Most Used Languages (centered & responsive) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradRouhaniiiiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
@@ -65,10 +64,25 @@ Data Cleaning • Feature Engineering • Data Visualization • Problem Solving
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AradRouhaniiiiii&theme=react-dark&hide_border=true&area=true" alt="Activity graph"/>
 </p>
 
+<p align="center">
+  <!-- GitHub trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AradRouhaniiiiii&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <!-- Random dev quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+<p align="center">
+  <!-- Profile views counter -->
+  <img src="https://komarev.com/ghpvc/?username=AradRouhaniiiiii&style=for-the-badge&color=blue" alt="Profile views"/>
+</p>
+
 ---
 
 ## 🌍 Connect with Me
-<p align="left">
+<p align="center">
 <a href="https://instagram.com/AradRouhaniiiiii" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://t.me/aradrouhaniiiiii" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.kaggle.com/aradrouhani" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300BFFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white"/></a>
@@ -86,8 +100,4 @@ Data Cleaning • Feature Engineering • Data Visualization • Problem Solving
 
 <p align="center">
   <b>“Data is the new oil, but insight is the spark that lights it.”</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AradRouhaniiiiii&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
