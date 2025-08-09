@@ -2,6 +2,11 @@
 <h1 align="center">Hi there 👋, I'm Arad Rouhani</h1>
 <h3 align="center">Junior Data Scientist | Python Enthusiast | Lifelong Learner</h3>
 
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Passionate+About+Machine+Learning;Lifelong+Learner+%26+Problem+Solver">
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -41,18 +46,31 @@ Data Cleaning • Feature Engineering • Data Visualization • Problem Solving
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Widgets
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AradRouhaniiiiii&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradRouhaniiiiii&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <!-- Stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AradRouhaniiiiii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
+  <!-- Languages card with improved responsiveness -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradRouhaniiiiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <!-- Streak stats -->
+  <img src="https://streak-stats.demolab.com?user=AradRouhaniiiiii&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <!-- Activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AradRouhaniiiiii&theme=react-dark&hide_border=true&area=true" alt="Activity graph"/>
 </p>
 
 ---
 
 ## 🌍 Connect with Me
 <p align="left">
-<a href="https://instagram.com/your_instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/@your_youtube" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://instagram.com/AradRouhaniiiiii" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://t.me/aradrouhaniiiiii" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.kaggle.com/aradrouhani" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300BFFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
 ---
@@ -67,4 +85,8 @@ Data Cleaning • Feature Engineering • Data Visualization • Problem Solving
 
 <p align="center">
   <b>“Data is the new oil, but insight is the spark that lights it.”</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AradRouhaniiiiii&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
