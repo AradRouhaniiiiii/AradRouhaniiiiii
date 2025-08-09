@@ -50,13 +50,14 @@ Data Cleaning • Feature Engineering • Data Visualization • Problem Solving
 <p align="center">
   <!-- Stats card -->
   <img src="https://github-readme-stats.vercel.app/api?username=AradRouhaniiiiii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <!-- Languages card with improved responsiveness -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradRouhaniiiiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" alt="Top Languages" height="165"/>
-</p>
 
 <p align="center">
   <!-- Streak stats -->
   <img src="https://streak-stats.demolab.com?user=AradRouhaniiiiii&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+  <!-- Languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradRouhaniiiiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
