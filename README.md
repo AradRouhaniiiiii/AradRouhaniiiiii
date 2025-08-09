@@ -40,7 +40,6 @@ Data Cleaning • Feature Engineering • Data Visualization • Problem Solving
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [**Linear Regression CO₂**](https://github.com/AradRouhaniiiiii/linear-regression-Co2) | Modeled CO₂ emissions using linear regression to find key environmental factors. | Python, Pandas, Scikit-learn |
 | [**Factors Affecting Sleep Quality**](https://github.com/AradRouhaniiiiii/factors-affecting-sleep-quality) | Analyzed lifestyle and health factors influencing sleep quality. | Python, Pandas, Matplotlib, Seaborn |
 | [**More Projects**](https://github.com/AradRouhaniiiiii?tab=repositories) | Explore my GitHub for more data analysis and ML work. | Various |
 
