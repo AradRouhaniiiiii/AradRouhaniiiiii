@@ -64,11 +64,6 @@ Data Cleaning • Feature Engineering • Data Visualization • Problem Solving
 </p>
 
 <p align="center">
-  <!-- GitHub trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=AradRouhaniiiiii&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
   <!-- Random dev quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
